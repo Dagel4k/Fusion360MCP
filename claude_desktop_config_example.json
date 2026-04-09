@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "fusion360": {
+      "command": "python",
+      "args": [
+        "path/to/Fusion360MCP/client.py",
+        "--use-sdk"
+      ],
+      "env": {
+        "PYTHONPATH": "path/to/Fusion360MCP"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "fusion": {
+      "command": "C:\\Users\\danie\\AppData\\Local\\Autodesk\\webdeploy\\production\\dc17ef0089c4e594bf5a4bf81f553cd441924ebc\\Python\\python.exe",
+      "args": [
+        "c:\\Users\\danie\\Downloads\\Fusion360MCP\\fusion_bridge.py"
+      ]
+    }
+  },
+  "preferences": {
+    "localAgentModeTrustedFolders": [
+      "C:\\Users\\danie\\Downloads\\claude"
+    ],
+    "coworkScheduledTasksEnabled": true,
+    "ccdScheduledTasksEnabled": true,
+    "sidebarMode": "chat",
+    "coworkWebSearchEnabled": true
+  }
+}

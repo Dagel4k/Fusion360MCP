@@ -1,0 +1,5 @@
+mcp[cli]>=0.1.0
+uvicorn>=0.20.0
+starlette>=0.23.0
+asyncio>=3.4.3
+pathlib>=1.0.1
