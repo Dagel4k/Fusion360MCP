@@ -1,6 +1,6 @@
 # Fusion 360 MCP Server
 
-[![GitHub license](https://img.shields.io/github/license/modelcontextprotocol/python-sdk)](https://github.com/danie/Fusion360MCP/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Dagel4k/Fusion360MCP)](https://github.com/Dagel4k/Fusion360MCP/blob/main/LICENSE)
 [![MCP](https://img.shields.io/badge/Protocol-MCP-blue)](https://modelcontextprotocol.io)
 
 This repository contains a high-performance Model Context Protocol (MCP) server for Autodesk Fusion 360. It enables AI assistants like Claude to interact directly with Fusion 360, allowing for AI-driven CAD modeling, design inspection, and automation.
